@@ -1,0 +1,52 @@
+body{
+    color: red;
+}
+
+.hoofdstuk{
+    border: 5px solid rgb(206, 194, 194);
+    background-color: aqua;
+    color: black;
+    text-align: center;
+   
+}
+
+#green-background{
+    background-color: green;
+}
+
+.px20{
+    font-size: 20px;
+    color: black;
+}
+
+.grijze-tekst{
+    color: grey;
+}
+
+.uolist{
+    color: blue;
+    
+}
+
+.groen{
+    color: green;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.gray-background-white{
+    background-color: gray;
+    color: white;
+}
+
+.go{
+    font-size: 40px;
+    color:rgb(153, 10, 255);
+    font-style:oblique
+}
+
+.zwart{
+    color: black;
+}
+
